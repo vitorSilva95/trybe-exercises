@@ -1,0 +1,31 @@
+body{
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+  }
+    h1{
+        font-size: 65px;
+        color: orange;
+        font-family: sans-serif;
+        text-decoration: darkgreen;
+    }
+    ul{
+        background-color: rgb(255, 400, 200);
+        font-style: italic;
+    }
+    .trocaCorFundo{
+        background-color: rgb(255, 0 , 0);
+    }
+    p{
+      font-weight: 600;
+      font-size: 3em;
+    }
+    #amarelo{
+      background-color: yellow;
+    }
+    #vermelho{
+      background-color: red;
+    }
+    #marrom{
+      background-color: brown;
+    }
